@@ -1,6 +1,6 @@
 # Guidance_System_For_Retaliatory_Violence_Rochester_Using_NetworkAnalysis
 
-This project aims to To design a tool that offers the law enforcement community in Rochester helpful direction, information, and best practices on crucial problem-oriented policing, strategic policing principles, and retaliatory violence.
+This project aim is to design a tool that offers the law enforcement community in Rochester helpful direction, information, and best practices on crucial problem-oriented policing, strategic policing principles, and retaliatory violence.
 
 Networks are graphical representations of the connections (edges) between variables (nodes). Network analysis can predict complicated patterns of linkages, and the network structure may be analyzed to reveal key network elements.
 
