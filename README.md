@@ -20,9 +20,7 @@ Following files are executed -
 1. Individual_Level_NetworkAnalysis.ipynb - This file displays the generation of networks at an individual-level, each individual (if involved in a dispute) being a node. Also, it displays the centrality scores.
 2. Dispute_Level_Network.ipynb - This file displays the generation of networks at dispute-level, each dispute being a node. Edge is created when same suspects are involved in two disputes. Also, it displays the centrality scores.
 3. Prediction.ipynb - This files contains the execute of model and it's optimization
-4. Justice_System_Factors_Prediction.ipynb
+4. Justice_System_Factors_Prediction.ipynb - This file displays the execution of support vector regression model for justice system factors data such as - active disputants caught with weapon, shotspotter activation, jail intelligence and uncooperative witness.
 5. Dispute_Violence_Enhancers_Prediction.ipynb - This file displays the execution of support vector regression model for dispute violence enhancer data such as - family retaliation, proxy attack, innocent bystander, family retaliation etc.
 6. Dispute_Characteristic_Prediction.ipynb - This file displays the execution of support vector regression model for dispute characteristics data such as - gang involed, inter-gang feud, robbery, drugs/property, neighbor dispute etc.
 7.Demographic_Prediction.ipynb - This file displays the execution of support vector regression model for the demographic indicator data such as - Percent Victim Male, Percent Victim Black, Percent Victim Latino, Percent Victim Age etc.
-
-Once executed successfully, users can see the generated network and the centrality graphs.
